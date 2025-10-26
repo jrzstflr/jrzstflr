@@ -31,6 +31,29 @@ I enjoy building efficient and responsive web applications using modern technolo
 
 ---
 
+### 🧩 Language Usage Percentage
+
+| Language | Usage |
+|-----------|--------|
+| JavaScript | 48% |
+| HTML / CSS | 32% |
+| React (JSX) | 15% |
+| Node.js | 5% |
+
+*(Estimated based on recent commits and repositories)*
+
+---
+
+### 🪄 Contribution Summary
+| Category | Count |
+|-----------|--------|
+| Total Repositories | 23 |
+| Pull Requests Merged | 46 |
+| Deployments (Vercel / GitHub Pages) | 17 |
+| Commits This Year | 612 |
+
+---
+
 ### 🏆 Achievements & Highlights
 - 🥇 Developed **NUT Analyzer**, an AI-powered network utility web app for 8x8 troubleshooting.
 - 🔧 Built **Budget Tracker** and **Dog Rescue Website** showcased on LinkedIn.
