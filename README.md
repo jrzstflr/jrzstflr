@@ -25,8 +25,8 @@ I enjoy building efficient and responsive web applications using modern technolo
 
 <p align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=jeruzabiera&show_icons=true&theme=radical" alt="Jeruz's GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeruzabiera&layout=compact&theme=radical" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jrzstflr&show_icons=true&theme=radical" alt="Jeruz's GitHub stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrzstflr&layout=compact&theme=radical" alt="Top Languages" height="160"/>
 </p>
 
 ---
