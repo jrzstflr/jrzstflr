@@ -8,8 +8,8 @@ I'm a passionate IT professional with extensive experience in technical support,
 I enjoy building efficient and responsive web applications using modern technologies like **React**, **Tailwind CSS**, and **Firebase**.  
 
 🧠 Currently improving my Frontend & Full-Stack development skills  
-💼 Working with **Sutherland Global Services Philippines Inc.**  
-🌎 Based in the Philippines  
+💼 Working with **8x8**  
+🌎 Based in the Manila, Philippines  
 📫 Reach me via [LinkedIn](https://linkedin.com/in/jeruzabiera) or [Portfolio](https://jrzstflr.netlify.app)
 
 ---
