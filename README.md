@@ -10,7 +10,7 @@ I enjoy building efficient and responsive web applications using modern technolo
 🧠 Currently improving my Frontend & Full-Stack development skills  
 💼 Working with **Sutherland Global Services Philippines Inc.**  
 🌎 Based in the Philippines  
-📫 Reach me via [LinkedIn](https://linkedin.com/in/jeruza) or [Portfolio](https://jrzstflr.netlify.app)
+📫 Reach me via [LinkedIn](https://linkedin.com/in/jeruzabiera) or [Portfolio](https://jrzstflr.netlify.app)
 
 ---
 
