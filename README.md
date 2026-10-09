@@ -64,7 +64,7 @@ I enjoy building efficient and responsive web applications using modern technolo
 
 ### 🌐 Let's Connect!
 <p align="center">
-  <a href="https://linkedin.com/in/jeruza" target="_blank">
+  <a href="https://linkedin.com/in/jeruzabiera" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:gwpojrz@gmail.com">
